@@ -1,0 +1,18 @@
+{
+  "name" : "MyApp",
+  "version" : "0.0.1",
+  "scripts" : {
+    "install" : "grunt"
+  },
+  "devDependencies" : {
+    "grunt" : "~0.4.5",
+    "grunt-browserify" : "~3.8.0",
+    "grunt-contrib-copy" : "~0.8.0",
+    "browserify" : "~10.2.3",
+    "chrome-net" : "~2.4.3",
+    "http-node" : "~0.0.2"
+  },
+  "engines" : {
+    "node" : ">= 0.10.0"
+  }
+}
