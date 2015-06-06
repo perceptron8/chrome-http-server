@@ -17,9 +17,6 @@ module.exports = function(grunt) {
 					alias : [
 						"chrome-net:net",
 						"http-node:http"
-					],
-					exclude : [
-						"http"
 					]
 				}
 			}
