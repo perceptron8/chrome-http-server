@@ -18,6 +18,6 @@ Build
 Credits:
 ---
 
-* substack/node-browserify
-* feross/chrome-net (net shim)
-* jscissr/http-node (http shim)
+* https://github.com/substack/node-browserify
+* https://github.com/feross/chrome-net (net shim)
+* https://github.com/jscissr/http-node (http shim)
