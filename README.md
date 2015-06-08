@@ -1,6 +1,23 @@
-# chrome-http-server
+chrome-http-server
+===
 
-1. download dependencies:
-	- npm install
-2. browserify, package:
-	- grunt
+Implements an HTTP server on Google Chrome, bases on the
+
+* https://nodejs.org/api/http.html
+
+module.
+
+Hello, world!
+
+
+Build
+---
+* npm install
+
+
+Credits:
+---
+
+* substack/node-browserify
+* feross/chrome-net (net shim)
+* jscissr/http-node (http shim)
