@@ -9,8 +9,10 @@ module.
 
 Hello, world!
 
-**IMPORTANT: Chrome will be removing support for Chrome Apps on Windows, Mac, and Linux.** 
-See https://blog.chromium.org/2016/08/from-chrome-apps-to-web.html.
+Warning
+---
+
+[**Chrome will be removing support for Chrome Apps on Windows, Mac, and Linux.**](https://blog.chromium.org/2016/08/from-chrome-apps-to-web.html)
 
 
 Build
