@@ -9,18 +9,19 @@ module.
 
 Hello, world!
 
-Warning
----
-
-[**Chrome will be removing support for Chrome Apps on Windows, Mac, and Linux.**](https://blog.chromium.org/2016/08/from-chrome-apps-to-web.html)
-
 
 Build
 ---
 * npm install
 
 
-Credits:
+Warning
+---
+
+[Chrome will be removing support for Chrome Apps on Windows, Mac, and Linux.](https://blog.chromium.org/2016/08/from-chrome-apps-to-web.html)
+
+
+Credits
 ---
 
 * https://github.com/substack/node-browserify
